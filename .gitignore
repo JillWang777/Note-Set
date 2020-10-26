@@ -1,0 +1,8 @@
+node_modules
+dist
+yarn-error.log
+.DS_Store
+express.server.js
+static/video
+static/js
+*.orig
